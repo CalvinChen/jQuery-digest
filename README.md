@@ -1,7 +1,7 @@
 jQuery-digest
 =============
 
-消化学习jQuery。
+消化学习jQuery 2.0。
 
 争取每个星期都commit一下。
 
