@@ -1,5 +1,6 @@
-jQuery-digest
-=============
+# jQuery-digest
+
+## 介绍
 
 研究学习jQuery 2.0源码。
 
@@ -9,7 +10,14 @@ jQuery-digest
 
 因而采用 **小短文** ，文字描述加代码片段辅助。
 
-
 有错请指出。
 
 **转载** 请先得到允许。
+
+## 进度
+
+- 基础方法： [jQuery.extend()](https://github.com/CalvinChen/jQuery-digest/blob/master/article/jquery.extend.md);
+
+## 下一步
+
+- 基础方法： jQuery.each();
