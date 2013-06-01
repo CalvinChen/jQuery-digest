@@ -16,7 +16,7 @@
 
 ## 进度
 
-- 基础方法： [jQuery.extend()](https://github.com/CalvinChen/jQuery-digest/blob/master/article/jquery.extend.md)，[jQuery.each()](https://github.com/CalvinChen/jQuery-digest/blob/master/article/jquery.each.md);
+- 基础方法： [jQuery.extend()](https://github.com/CalvinChen/jQuery-digest/blob/master/article/jquery.extend.md)，[jQuery.each()](https://github.com/CalvinChen/jQuery-digest/blob/master/article/jquery.each.md)，[jQuery.noconflict()](https://github.com/CalvinChen/jQuery-digest/blob/master/article/jquery.noconflict.md);
 - 内部函数： [isArrayLike()](https://github.com/CalvinChen/jQuery-digest/blob/master/article/private/isArrayLike.md);
 - 其它： 短小方法合集.
 
