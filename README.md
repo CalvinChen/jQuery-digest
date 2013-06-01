@@ -1,4 +1,4 @@
-# jQuery-digest
+# jQuery-digest | 咀嚼jQuery源码
 
 ## 介绍
 
